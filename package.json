@@ -1,12 +1,15 @@
 {
   "name": "@strdr4605/eslint-plugin-react-props-destructuring",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint plugin for ReactJS which verifies that props are not destructuring on multiple lines at component declaration",
   "publishConfig": {
     "access": "public",
-    "registry":"https://npm.pkg.github.com/strdr4605"
+    "registry": "https://npm.pkg.github.com/strdr4605"
   },
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +20,9 @@
     "react"
   ],
   "author": "Dragoș Străinu (@strdr4605)",
-  "repository": "https://github.com/strdr4605/eslint-plugin-react-props-destructuring",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/strdr4605/eslint-plugin-react-props-destructuring.git"
+  },
   "license": "MIT"
 }
