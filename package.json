@@ -1,6 +1,6 @@
 {
   "name": "@strdr4605/eslint-plugin-react-props-destructuring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint plugin for ReactJS which verifies that props are not destructuring on multiple lines at component declaration",
   "publishConfig": {
     "access": "public",
