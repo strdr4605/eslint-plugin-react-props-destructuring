@@ -1,5 +1,4 @@
 function checkPropsDestructuring(node, report) {
-  console.log({ node });
   const firstParam = node.params[0];
 
   const functionName =
