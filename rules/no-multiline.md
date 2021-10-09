@@ -1,4 +1,4 @@
-# Forbid multiline props destructuring at Component declaration (react-props-destructuring/no-multiline)
+# Forbid multiline props destructuring at Component declaration (@strdr4605/react-props-destructuring/no-multiline)
 
 Destructuring Component props on multiple line may confuse the reader where the actual block or the function start.
 
